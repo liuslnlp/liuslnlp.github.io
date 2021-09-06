@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Shilei Liu (刘石磊)</title>
+    <link>http://liuslnlp.github.io/</link>
+    <description>Recent content in About on Shilei Liu (刘石磊)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Feb 2021 22:37:39 +0800</lastBuildDate><atom:link href="http://liuslnlp.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://liuslnlp.github.io/posts/my-first-post/</link>
+      <pubDate>Fri, 19 Feb 2021 22:37:39 +0800</pubDate>
+      
+      <guid>http://liuslnlp.github.io/posts/my-first-post/</guid>
+      <description>Hello World</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://liuslnlp.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://liuslnlp.github.io/about/</guid>
+      <description>About Me  I am currently a postgraduate in Northeastern University, and mainly focus on natural language processing. At present, I work on projects related with dialogue generation, machine reading comprehension and knowledge graph.
+Education  [2019.09 - Now] Northeastern University (China), Computer Science and Technology. [2015.09 - 2019.07] Shandong Agricultural University, Computer Science and Technology.  News [2021.08] Two papers were accepted by EMNLP 2021 and NLPCC 2021.
+[2020.06] Ranked third in the machine reading comprehension task of 2020 Language and Intelligence Challenge.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://liuslnlp.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://liuslnlp.github.io/contact/</guid>
+      <description>Github: https://github.com/liuslnlp
+Email: liusl@live.cn</description>
+    </item>
+    
+  </channel>
+</rss>
