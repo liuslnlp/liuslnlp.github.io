@@ -23,7 +23,7 @@
       
       <guid>http://liuslnlp.github.io/contact/</guid>
       <description>Github: https://github.com/liuslnlp
-Email: liusl@live.cn</description>
+Email: liusl AT live.cn</description>
     </item>
     
     <item>
@@ -32,11 +32,12 @@ Email: liusl@live.cn</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://liuslnlp.github.io/home/</guid>
-      <description>About Me  I am currently a postgraduate in Northeastern University, under the supervision of Dr. Feiliang Ren. At present, I work on projects related with dialogue generation, machine reading comprehension and knowledge graph.
-Experience [2019.09 - Now] Northeastern University (China), Computer Science and Technology.
+      <description>About Me  I am currently an algorithm engineer at Alicoco Team of Alibaba Group. At present, I work on projects related with pre-training and product understanding.
+Experience [2022.07 - Now] Algorithm engineer at Alibaba Group.
+[2022.01 - 2022.06] Intern algorithm engineer at Alibaba Group.
+[2019.09 - 2022.06] Northeastern University, under the supervision of Dr. Feiliang Ren.
 [2015.09 - 2019.07] Shandong Agricultural University, Computer Science and Technology.
-News [2021.08] Two papers were accepted by EMNLP 2021 and NLPCC 2021.
-[2020.06] Ranked third in the machine reading comprehension task of 2020 Language and Intelligence Challenge.</description>
+News [2021.08] Two papers were accepted by EMNLP 2021 and NLPCC 2021.</description>
     </item>
     
   </channel>
